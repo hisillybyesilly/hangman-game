@@ -36,5 +36,7 @@ A fun and colorful Python Hangman game where you can choose to play as a girl or
 ## 👩‍💻 Credits
 Created by hisillybyesilly with help from AI in Cursor.
 
+Made by Sloane
+
 ---
 Enjoy playing and share with your friends! If you have ideas for more features or categories, feel free to suggest them or make a pull request. 
