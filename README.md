@@ -3,14 +3,14 @@
 A fun and colorful Python Hangman game where you can choose to play as a girl or a boy, pick your favorite category, and watch the game get harder as you win!
 
 ## ✨ Features
-- **Choose your character:** Play as a girl 👧 or a boy 👦
+- **Choose your character:** Plaky as a girl 👧 or a boy 👦
 - **Pick your category:** Animals, Space, Mythology, or Science
 - **Progressive difficulty:** Each category gets harder as you win in it (Beginner → Medium → Hard → Expert)
 - **Expressive emoji faces:** The hangman changes faces as you play
 - **Colorful and clear terminal display**
 
 ## 🚀 How to Play
-1. **Download the game files** from this repository (click the green `Code` button > `Download ZIP`)
+1. **Download the game vfiles** from this repository (click the green `Code` button > `Download ZIP`)
 2. **Unzip** the files to a folder on your computer
 3. **Open a terminal** and navigate to that folder
 4. **Install the required package:**
